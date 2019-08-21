@@ -1,3 +1,5 @@
+# you should have comments at the beginnig of every function
+
 namestr= "My name is "
 myName= "Jack"
 print( namestr + myName)
